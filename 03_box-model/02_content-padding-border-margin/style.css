@@ -1,0 +1,8 @@
+.example-box {
+  width: 150px;
+  height: 80px;
+  padding: 15px;
+  border: 4px dashed #ff5722;
+  margin: 25px;
+  background-color: #e0f7fa;
+}

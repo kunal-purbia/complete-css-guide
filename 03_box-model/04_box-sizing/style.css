@@ -1,0 +1,17 @@
+.content-box {
+  width: 200px;
+  padding: 20px;
+  border: 5px solid #009688;
+  margin: 20px;
+  box-sizing: content-box; /* Default behavior */
+  background-color: #e0f2f1;
+}
+
+.border-box {
+  width: 200px;
+  padding: 20px;
+  border: 5px solid #ff9800;
+  margin: 20px;
+  box-sizing: border-box; /* Important behavior */
+  background-color: #fff3e0;
+}
