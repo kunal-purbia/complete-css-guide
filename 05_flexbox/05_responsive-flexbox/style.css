@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 40px;
+  background-color: #f7f7f7;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+}
+
+.item {
+  background-color: #4caf50;
+  color: white;
+  padding: 40px;
+  text-align: center;
+  font-size: 18px;
+  flex: 1;
+  min-width: 250px; /* Minimum width for responsive layout */
+  box-sizing: border-box;
+}
+
+/* Media Queries for responsive design */
+@media screen and (max-width: 768px) {
+  .container {
+    justify-content: center;
+  }
+  .item {
+    flex: 1 1 100%; /* Make items take full width on small screens */
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .item {
+    flex: 1 1 100%;
+    min-width: 100%; /* Ensure items take full width on very small screens */
+  }
+}

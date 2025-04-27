@@ -51,7 +51,6 @@ This chapter will be divided into various sections, each with an explanation and
 │   └── README.md
 └── README.md
 ```
-````
 
 ---
 
@@ -68,7 +67,4 @@ open index.html
 
 # Let's Get Flexing! 💪🎯
 
-```
-
 ---
-```
