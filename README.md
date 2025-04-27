@@ -1,9 +1,3 @@
-Perfect! I see the style you want: **professional**, **clean**, a bit **casual** but still **structured** — matching your HTML guide vibe.
-
-Here’s your **CSS ReadME**, written to match that same style:
-
----
-
 # 🎨 Complete CSS Guide
 
 Welcome to the **Complete CSS Guide** repository!  
