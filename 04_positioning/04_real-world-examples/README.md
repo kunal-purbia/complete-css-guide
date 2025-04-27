@@ -44,7 +44,4 @@ In this project, we combine **Sticky**, **Relative**, **Absolute**, and **Fixed*
 
 # Positioning = The Power to Structure Awesome Layouts! 🚀🏗️
 
-```
-
 ---
-```

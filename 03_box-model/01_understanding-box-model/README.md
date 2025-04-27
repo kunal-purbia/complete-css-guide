@@ -12,6 +12,7 @@ Each element is essentially a rectangular box made up of:
 ---
 
 ## Visual Representation:
+
 ```
 
 [ Margin ]
@@ -26,6 +27,7 @@ Each element is essentially a rectangular box made up of:
 ## Example:
 
 In this example:
+
 - The content area is `200px × 100px`.
 - Padding adds `20px` space inside the border.
 - Border is `5px` thick.
@@ -42,6 +44,5 @@ Understanding how padding, borders, and margins affect element size and position
 ---
 
 # Happy Learning! 📦✨
-```
 
 ---

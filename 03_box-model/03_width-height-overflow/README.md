@@ -10,6 +10,7 @@ In this section, we explore how **width**, **height**, and **overflow** work wit
 - You can define them using `px`, `%`, `em`, `rem`, `vw`, `vh`, etc.
 
 Example:
+
 ```css
 width: 250px;
 height: 100px;
@@ -22,12 +23,14 @@ height: 100px;
 When content is too big to fit in an element's box, the `overflow` property controls what happens.
 
 **Common overflow values:**
+
 - `visible` (default): Content spills outside the box.
 - `hidden`: Overflow content is clipped (not visible).
 - `scroll`: Always adds scrollbars.
 - `auto`: Adds scrollbars only when needed.
 
 Example:
+
 ```css
 overflow: auto;
 ```
@@ -43,6 +46,5 @@ Understanding **overflow** is essential for handling long content and maintainin
 ---
 
 # Keep Growing! 📏📦✨
-```
 
 ---

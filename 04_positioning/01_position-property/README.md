@@ -39,7 +39,4 @@ The `position` property in CSS determines how an element is positioned in a docu
 
 # Master Position, Master Layouts! 📐🚀
 
-```
-
 ---
-```

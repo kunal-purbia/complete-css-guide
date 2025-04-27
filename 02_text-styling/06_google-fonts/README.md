@@ -1,4 +1,3 @@
-````markdown
 # Google Fonts
 
 You can use free fonts from [Google Fonts](https://fonts.google.com/).
@@ -16,7 +15,6 @@ Example:
   rel="stylesheet"
 />
 ```
-````
 
 ```css
 body {
@@ -25,8 +23,3 @@ body {
 ```
 
 ---
-
-```
-
----
-```

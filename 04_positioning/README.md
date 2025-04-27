@@ -7,10 +7,10 @@ In this section, we'll learn how to control the placement of elements using CSS 
 
 ## Topics Covered:
 
-- Introduction to CSS Positioning
-- Static, Relative, Absolute, Fixed, and Sticky Position
-- z-index and Overlapping Elements
-- Practical Examples of Positioning in Real Layouts
+1. [Introduction to CSS Positioning](./01_position-property/)
+2. [Static, Relative, Absolute, Fixed, and Sticky Position](./02_static-relative-absolute-fixed-sticky/)
+3. [z-index and Overlapping Elements](./03_z-index-overlapping/)
+4. [Practical Examples of Positioning in Real Layouts](./04_real-world-examples/)
 
 ---
 

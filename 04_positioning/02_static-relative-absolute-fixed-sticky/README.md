@@ -13,8 +13,6 @@ In this section, we'll dive deeper into the different types of positioning avail
 position: static;
 ```
 
-````
-
 ---
 
 ## 2. Relative Position
@@ -84,8 +82,4 @@ top: 0;
 
 # Master these and you'll control layouts like a boss! 🎯👑
 
-```
-
 ---
-```
-````

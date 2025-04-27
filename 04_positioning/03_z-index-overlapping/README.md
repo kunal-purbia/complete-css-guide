@@ -29,8 +29,6 @@ When elements are positioned to overlap, the `z-index` property helps control wh
 }
 ```
 
-````
-
 ---
 
 ## Quick Tips:
@@ -49,8 +47,4 @@ When elements are positioned to overlap, the `z-index` property helps control wh
 
 # Stacking Elements = Designing like a pro! 🎨🚀
 
-```
-
 ---
-```
-````
