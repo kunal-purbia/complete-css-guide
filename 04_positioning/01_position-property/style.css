@@ -1,0 +1,11 @@
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  position: relative; /* Can be changed to static, absolute, fixed, sticky */
+  top: 10px;
+  left: 20px;
+}
