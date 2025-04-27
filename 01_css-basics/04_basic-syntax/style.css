@@ -1,0 +1,11 @@
+/* Selector */
+h1 {
+  /* Declaration Block */
+  color: #16a085; /* Property: Value */
+  text-align: center;
+}
+
+p {
+  color: #555;
+  font-size: 16px;
+}

@@ -1,0 +1,16 @@
+/* Element Selector */
+h1 {
+  color: #2980b9;
+}
+
+/* Class Selector */
+.highlight {
+  background-color: #f1c40f;
+  padding: 10px;
+}
+
+/* ID Selector */
+#special {
+  color: #e74c3c;
+  font-weight: bold;
+}

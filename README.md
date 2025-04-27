@@ -16,11 +16,12 @@ This repository is divided into carefully structured folders, covering:
 ✅ Modern layout systems (Flexbox & Grid)  
 ✅ Animations, transitions, and effects  
 ✅ Best practices for writing clean, scalable CSS  
-✅ *(Coming Soon!)* Hands-on exercises and quizzes
+✅ _(Coming Soon!)_ Hands-on exercises and quizzes
 
 ---
 
 ## 📂 Folder Structure
+
 ```bash
 complete-css-guide/
 ├── 01_css-basics/
@@ -53,10 +54,10 @@ This repository is perfect for:
 ## 📌 How to Use This Repository
 
 1. **Clone the repository**
-    ```bash
-    git clone https://github.com/kunal-purbia/complete-css-guide.git
-    cd complete-css-guide
-    ```
+   ```bash
+   git clone https://github.com/kunal-purbia/complete-css-guide.git
+   cd complete-css-guide
+   ```
 2. **Navigate** through the folders based on the topic you want to learn.
 3. **Open** `.html` and `.css` files in your browser/editor to view live examples and experiment with the code!
 
@@ -66,8 +67,8 @@ This repository is perfect for:
 
 We welcome contributions! Here's how you can help:
 
-- 🧪 Add more examples and mini-projects  
-- ✍️ Fix typos, bugs, or improve explanations  
+- 🧪 Add more examples and mini-projects
+- ✍️ Fix typos, bugs, or improve explanations
 - 💡 Suggest new topics or improvements
 
 > 📬 Simply open an issue or submit a pull request to contribute!
