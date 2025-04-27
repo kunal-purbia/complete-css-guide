@@ -19,6 +19,7 @@ In this chapter, we'll explore the powerful **CSS Grid Layout**, a two-dimension
 2. [Defining Grid Columns & Rows](./02_defining-grid-columns-rows/)
 3. [Placing Items on the Grid](./03_placing-items-on-the-grid/)
 4. [Complex Grid Layouts](./04_complex-grid-layouts/)
+5. [Responsive Grid Layouts](./05_responsive-grid-layout/)
 
 ---
 
@@ -41,6 +42,10 @@ This chapter is divided into sections, each focusing on a different aspect of **
 │   ├── style.css
 │   └── README.md
 ├── 04_complex-grid-layouts/
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+├── 05_responsive-grid-layout/
 │   ├── index.html
 │   ├── style.css
 │   └── README.md
